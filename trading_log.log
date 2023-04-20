@@ -1,0 +1,497 @@
+2023-04-02 10:43:49,967 Selling 0.00104135 of XRP/BTC
+2023-04-02 10:43:50,051 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:50,051 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:50,130 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:50,130 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:50,204 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:50,204 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:50,287 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:50,287 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:50,357 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:50,357 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:50,442 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:50,442 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:50,512 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:50,514 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:50,607 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:50,607 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:50,693 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:50,693 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:50,774 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:50,775 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:50,845 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:50,845 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:50,938 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:50,938 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:51,024 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:51,024 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:51,103 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:51,103 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:51,189 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:51,189 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:51,274 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:51,275 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:51,354 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:51,355 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:51,439 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:51,440 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:51,494 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:51,495 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:51,594 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:51,594 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:51,670 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:51,670 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:51,742 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:51,743 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:51,833 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:51,833 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:51,911 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:51,911 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:51,989 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:51,989 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:52,070 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:52,071 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:52,157 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:52,158 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:52,264 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:52,264 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:52,356 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:52,356 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:52,441 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:52,441 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:52,521 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:52,522 Buying 0.00104135 of XRP/BTC
+2023-04-02 10:43:52,593 Error executing trade for XRP/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:52,785 Buying 0.00104135 of LTC/BTC
+2023-04-02 10:43:52,862 Error executing trade for LTC/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:52,863 Buying 0.00104135 of LTC/BTC
+2023-04-02 10:43:52,940 Error executing trade for LTC/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:52,940 Buying 0.00104135 of LTC/BTC
+2023-04-02 10:43:53,023 Error executing trade for LTC/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:53,024 Selling 0.00104135 of LTC/BTC
+2023-04-02 10:43:53,110 Error executing trade for LTC/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:53,110 Selling 0.00104135 of LTC/BTC
+2023-04-02 10:43:53,184 Error executing trade for LTC/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:53,184 Selling 0.00104135 of LTC/BTC
+2023-04-02 10:43:53,269 Error executing trade for LTC/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:53,270 Selling 0.00104135 of LTC/BTC
+2023-04-02 10:43:53,333 Error executing trade for LTC/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:53,509 Selling 0.00104135 of ETH/BTC
+2023-04-02 10:43:54,506 Error executing trade for ETH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:54,506 Selling 0.00104135 of ETH/BTC
+2023-04-02 10:43:54,579 Error executing trade for ETH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:54,580 Buying 0.00104135 of ETH/BTC
+2023-04-02 10:43:54,636 Error executing trade for ETH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:54,636 Buying 0.00104135 of ETH/BTC
+2023-04-02 10:43:54,745 Error executing trade for ETH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:54,746 Selling 0.00104135 of ETH/BTC
+2023-04-02 10:43:54,822 Error executing trade for ETH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:54,822 Selling 0.00104135 of ETH/BTC
+2023-04-02 10:43:54,904 Error executing trade for ETH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:54,905 Buying 0.00104135 of ETH/BTC
+2023-04-02 10:43:54,989 Error executing trade for ETH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:54,990 Selling 0.00104135 of ETH/BTC
+2023-04-02 10:43:55,069 Error executing trade for ETH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:55,070 Selling 0.00104135 of ETH/BTC
+2023-04-02 10:43:55,146 Error executing trade for ETH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:55,146 Selling 0.00104135 of ETH/BTC
+2023-04-02 10:43:55,229 Error executing trade for ETH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:55,391 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:55,472 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:55,472 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:55,557 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:55,557 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:55,656 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:55,657 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:55,749 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:55,749 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:55,834 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:55,834 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:55,891 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:55,891 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:55,994 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:55,995 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:56,079 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:56,079 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:56,150 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:56,150 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:56,234 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:56,234 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:56,328 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:56,328 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:56,430 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:56,430 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:56,504 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:56,505 Buying 0.00104135 of BCH/BTC
+2023-04-02 10:43:56,578 Error executing trade for BCH/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:56,756 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:56,836 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:56,836 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:56,917 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:56,918 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:57,004 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:57,004 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:57,080 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:57,081 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:57,165 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:57,166 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:57,236 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:57,236 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:57,336 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:57,336 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:57,410 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:57,410 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:57,492 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:57,492 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:57,581 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:57,581 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:57,660 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:57,660 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:57,738 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:57,739 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:57,824 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:57,825 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:57,908 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:57,908 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:57,994 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:57,994 Buying 0.00104135 of XLM/BTC
+2023-04-02 10:43:58,071 Error executing trade for XLM/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:58,237 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:58,320 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:58,321 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:58,397 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:58,397 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:58,480 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:58,480 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:58,561 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:58,561 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:58,646 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:58,646 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:58,725 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:58,726 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:58,823 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:58,823 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:58,907 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:58,908 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:58,991 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:58,992 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:59,066 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:59,066 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:59,140 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:59,141 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:59,223 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:59,224 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:59,311 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:59,312 Buying 0.00104135 of LINK/BTC
+2023-04-02 10:43:59,394 Error executing trade for LINK/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:59,545 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:43:59,625 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:59,625 Selling 0.00104135 of OMG/BTC
+2023-04-02 10:43:59,709 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:59,710 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:43:59,792 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:59,792 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:43:59,893 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:59,893 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:43:59,979 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:43:59,979 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:44:00,061 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:00,062 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:44:00,151 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:00,152 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:44:00,237 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:00,237 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:44:00,314 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:00,314 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:44:00,400 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:00,401 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:44:00,496 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:00,497 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:44:00,575 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:00,576 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:44:00,670 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:00,670 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:44:00,733 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:00,733 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:44:00,829 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:00,830 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:44:00,909 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:00,909 Buying 0.00104135 of OMG/BTC
+2023-04-02 10:44:00,995 Error executing trade for OMG/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:01,150 Buying 0.00104135 of AAVE/BTC
+2023-04-02 10:44:01,224 Error executing trade for AAVE/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:01,224 Buying 0.00104135 of AAVE/BTC
+2023-04-02 10:44:01,301 Error executing trade for AAVE/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:01,301 Buying 0.00104135 of AAVE/BTC
+2023-04-02 10:44:01,390 Error executing trade for AAVE/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:01,390 Buying 0.00104135 of AAVE/BTC
+2023-04-02 10:44:01,469 Error executing trade for AAVE/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:01,469 Buying 0.00104135 of AAVE/BTC
+2023-04-02 10:44:01,524 Error executing trade for AAVE/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:01,524 Buying 0.00104135 of AAVE/BTC
+2023-04-02 10:44:01,629 Error executing trade for AAVE/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:01,629 Buying 0.00104135 of AAVE/BTC
+2023-04-02 10:44:01,709 Error executing trade for AAVE/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:01,855 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:01,935 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:01,935 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:02,011 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:02,011 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:02,092 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:02,092 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:02,174 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:02,174 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:02,262 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:02,263 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:02,345 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:02,345 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:02,446 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:02,446 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:02,498 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:02,499 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:02,598 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:02,598 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:02,677 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:02,677 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:02,751 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:02,751 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:02,851 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:02,852 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:02,942 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:02,943 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:03,039 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:03,039 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:03,110 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:03,110 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:03,201 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:03,201 Buying 0.00104135 of ALGO/BTC
+2023-04-02 10:44:03,282 Error executing trade for ALGO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:03,430 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:03,520 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:03,520 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:03,604 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:03,604 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:03,682 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:03,682 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:03,773 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:03,773 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:03,856 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:03,857 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:03,935 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:03,935 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:04,010 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:04,010 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:04,090 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:04,090 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:04,180 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:04,180 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:04,279 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:04,280 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:04,365 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:04,366 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:04,443 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:04,443 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:04,542 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:04,542 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:04,606 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:04,606 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:04,696 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:04,696 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:04,778 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:04,778 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:04,863 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:04,863 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:04,951 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:04,951 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:05,036 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:05,037 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:05,116 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:05,116 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:05,197 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:05,197 Buying 0.00104135 of AUDIO/BTC
+2023-04-02 10:44:05,287 Error executing trade for AUDIO/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:05,438 Buying 0.00104135 of UNI/BTC
+2023-04-02 10:44:05,497 Error executing trade for UNI/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:05,497 Buying 0.00104135 of UNI/BTC
+2023-04-02 10:44:05,609 Error executing trade for UNI/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:05,609 Buying 0.00104135 of UNI/BTC
+2023-04-02 10:44:05,665 Error executing trade for UNI/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:05,665 Buying 0.00104135 of UNI/BTC
+2023-04-02 10:44:05,758 Error executing trade for UNI/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:05,758 Buying 0.00104135 of UNI/BTC
+2023-04-02 10:44:05,830 Error executing trade for UNI/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:05,830 Buying 0.00104135 of UNI/BTC
+2023-04-02 10:44:05,920 Error executing trade for UNI/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:05,920 Selling 0.00104135 of UNI/BTC
+2023-04-02 10:44:05,995 Error executing trade for UNI/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:05,996 Buying 0.00104135 of UNI/BTC
+2023-04-02 10:44:06,072 Error executing trade for UNI/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:06,209 Buying 0.00104135 of ADA/BTC
+2023-04-02 10:44:06,287 Error executing trade for ADA/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:06,287 Buying 0.00104135 of ADA/BTC
+2023-04-02 10:44:06,377 Error executing trade for ADA/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:06,378 Buying 0.00104135 of ADA/BTC
+2023-04-02 10:44:06,464 Error executing trade for ADA/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:06,464 Buying 0.00104135 of ADA/BTC
+2023-04-02 10:44:06,528 Error executing trade for ADA/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:06,528 Buying 0.00104135 of ADA/BTC
+2023-04-02 10:44:06,615 Error executing trade for ADA/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:06,615 Buying 0.00104135 of ADA/BTC
+2023-04-02 10:44:06,704 Error executing trade for ADA/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:06,704 Buying 0.00104135 of ADA/BTC
+2023-04-02 10:44:06,784 Error executing trade for ADA/BTC: bitstamp {"status": "error", "reason": {"__all__": ["Minimum order size is 0.00020000 BTC."]}, "response_code": "400.020"}
+2023-04-02 10:44:06,897 Buying 0.00104135 of WBTC/BTC
+2023-04-02 10:44:07,040 Error executing trade for WBTC/BTC: bitstamp {"status": "error", "reason": "You can only buy 0.0010 WBTC. Check your account balance for details.", "response_code": "400.009"}
+2023-04-02 10:44:07,040 Selling 0.00104135 of WBTC/BTC
+2023-04-02 10:44:07,135 Error executing trade for WBTC/BTC: bitstamp {"status": "error", "reason": "You can only sell 0.0000 WBTC. Check your account balance for details.", "response_code": "400.009"}
+2023-04-02 10:44:07,136 Buying 0.00104135 of WBTC/BTC
+2023-04-02 10:44:07,274 Error executing trade for WBTC/BTC: bitstamp {"status": "error", "reason": "You can only buy 0.0010 WBTC. Check your account balance for details.", "response_code": "400.009"}
+2023-04-02 10:44:07,275 Selling 0.00104135 of WBTC/BTC
+2023-04-02 10:44:07,384 Error executing trade for WBTC/BTC: bitstamp {"status": "error", "reason": "You can only sell 0.0000 WBTC. Check your account balance for details.", "response_code": "400.009"}
+2023-04-02 10:44:07,385 Selling 0.00104135 of WBTC/BTC
+2023-04-02 10:44:07,464 Error executing trade for WBTC/BTC: bitstamp {"status": "error", "reason": "You can only sell 0.0000 WBTC. Check your account balance for details.", "response_code": "400.009"}
+2023-04-02 10:44:07,464 Selling 0.00104135 of WBTC/BTC
+2023-04-02 10:44:07,548 Error executing trade for WBTC/BTC: bitstamp {"status": "error", "reason": "You can only sell 0.0000 WBTC. Check your account balance for details.", "response_code": "400.009"}
+2023-04-02 10:44:07,548 Selling 0.00104135 of WBTC/BTC
+2023-04-02 10:44:07,655 Error executing trade for WBTC/BTC: bitstamp {"status": "error", "reason": "You can only sell 0.0000 WBTC. Check your account balance for details.", "response_code": "400.009"}
+2023-04-02 10:44:07,655 Selling 0.00104135 of WBTC/BTC
+2023-04-02 10:44:07,772 Error executing trade for WBTC/BTC: bitstamp {"status": "error", "reason": "You can only sell 0.0000 WBTC. Check your account balance for details.", "response_code": "400.009"}
+2023-04-02 10:44:07,772 Selling 0.00104135 of WBTC/BTC
+2023-04-02 10:44:07,873 Error executing trade for WBTC/BTC: bitstamp {"status": "error", "reason": "You can only sell 0.0000 WBTC. Check your account balance for details.", "response_code": "400.009"}
+2023-04-02 10:44:07,873 Trading algorithm completed.
+2023-04-02 12:19:29,290 Error encountered while processing symbol XRP/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 12:19:29,436 Error encountered while processing symbol LTC/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 12:19:29,586 Error encountered while processing symbol ETH/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 12:19:29,738 Error encountered while processing symbol BCH/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 12:19:29,882 Error encountered while processing symbol XLM/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 12:19:30,016 Error encountered while processing symbol LINK/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 12:19:30,160 Error encountered while processing symbol OMG/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 12:19:30,282 Error encountered while processing symbol AAVE/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 12:19:30,399 Error encountered while processing symbol ALGO/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 12:19:30,518 Error encountered while processing symbol AUDIO/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 12:19:30,637 Error encountered while processing symbol UNI/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 12:19:30,744 Error encountered while processing symbol ADA/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 12:19:30,835 Error encountered while processing symbol WBTC/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 12:19:30,835 Trading algorithm completed.
+2023-04-02 13:04:42,348 Error encountered while processing symbol XRP/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 13:04:42,480 Error encountered while processing symbol AUDIO/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 13:04:42,597 Error encountered while processing symbol ALGO/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 13:04:42,740 Error encountered while processing symbol XLM/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 13:04:42,878 Error encountered while processing symbol OMG/BTC: '<' not supported between instances of 'float' and 'NoneType'
+2023-04-02 13:04:42,878 Trading algorithm completed.
+2023-04-02 13:06:47,910 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,911 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,912 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,912 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,912 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,912 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,912 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,912 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,913 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,913 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,913 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,913 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,913 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,913 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,913 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,913 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,913 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,914 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,914 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,914 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,914 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,914 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,914 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,914 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,914 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,914 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,914 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,914 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,914 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,914 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,915 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:47,915 Minimum trade size not available for XRP/BTC. Skipping trade.
+2023-04-02 13:06:48,034 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,034 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,034 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,034 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,035 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,035 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,035 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,035 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,035 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,035 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,035 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,035 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,036 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,036 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,036 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,036 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,036 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,036 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,036 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,036 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,036 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,036 Minimum trade size not available for AUDIO/BTC. Skipping trade.
+2023-04-02 13:06:48,154 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,155 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,155 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,155 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,155 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,155 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,155 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,155 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,155 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,155 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,156 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,156 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,156 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,156 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,156 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,156 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,156 Minimum trade size not available for ALGO/BTC. Skipping trade.
+2023-04-02 13:06:48,297 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,297 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,298 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,298 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,298 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,298 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,298 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,298 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,298 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,298 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,298 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,299 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,299 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,299 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,299 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,299 Minimum trade size not available for XLM/BTC. Skipping trade.
+2023-04-02 13:06:48,430 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,430 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,430 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,431 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,431 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,431 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,431 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,431 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,431 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,431 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,432 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,432 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,432 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,432 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,432 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,432 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,432 Minimum trade size not available for OMG/BTC. Skipping trade.
+2023-04-02 13:06:48,432 Trading algorithm completed.
+2023-04-02 13:08:46,193 Trading algorithm completed.
+2023-04-02 13:11:26,201 Trading algorithm completed.
+2023-04-02 13:17:30,465 Trading algorithm completed.
+2023-04-02 13:22:53,230 Trading algorithm completed.
+2023-04-02 13:57:17,244 Trading algorithm completed.
+2023-04-02 14:02:29,354 Trading algorithm completed.
+2023-04-02 14:05:19,416 Trading algorithm completed.
+2023-04-02 16:58:15,235 Trading algorithm completed.
+2023-04-02 17:01:54,612 Trading algorithm completed.
+2023-04-02 17:06:07,409 Trading algorithm completed.
+2023-04-02 17:09:56,170 Trading algorithm completed.
