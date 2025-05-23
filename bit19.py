@@ -144,8 +144,8 @@ def calculate_indicators(df):
     df['sma_50'] = talib.SMA(df['close'], timeperiod=50)
     return df
 
-def moving_average_crossover_strategy(symbol, interval='1h', short_window=20, long_window=50):
-    short_mavg, long_mavg = calculate_moving_averages(symbol, interval, short_window, long_window)
+def moving_average_crossover_strategy(exchange, symbol, interval='1h', short_window=20, long_window=50):
+    short_mavg, long_mavg = calculate_moving_averages(exchange, symbol, interval, short_window, long_window)
 
     if short_mavg > long_mavg:
         return 'buy'
@@ -158,6 +158,10 @@ def drop_non_numeric_columns(df):
     return df[df.select_dtypes(include=[np.number]).columns.tolist()]
 
 def create_returns_df(ohlcv_data):
+    returns = np.log(ohlcv_data['close'] / ohlcv_data['close'].shift(1))
+    return returns.dropna()
+
+def calculate_returns(df, symbol=None):
     returns = np.log(df['close'] / df['close'].shift(1))
     return returns.dropna()
 
@@ -513,7 +517,7 @@ while True:
             time.sleep(60)
 
             for trading_pair in trading_pairs:
-                signal = moving_average_crossover_strategy(trading_pair, trading_interval, short_window, long_window)
+                signal = moving_average_crossover_strategy(bitstamp, trading_pair, trading_interval, short_window, long_window)
 
                 ticker = bitstamp.fetch_ticker(trading_pair)
                 current_price = ticker['ask']
